@@ -1,0 +1,93 @@
+#dropdownMenu1{
+  background: none;
+  color: gray;
+  border: none;
+}
+
+#tituloFotos{
+  margin-top: 3em;
+  font-size: 1em;
+  text-align: center;
+}
+
+
+.fotoTurista{
+  margin-top: 2em;
+  border: thistle 1px solid;
+  font-size: 0.5em;
+  width: 70%;
+  margin-left: 10vh;
+  margin-right: 10vh;
+  position: center;
+}
+
+.turistas{
+  padding: 0;
+  margin: 0;
+}
+.tituloFotos{
+  padding: 0;
+  margin: 0;
+}
+
+#foto1{
+  width: 100%;;
+}
+
+#foto2{
+  width: 100%;;
+}
+
+
+#foto3{
+  width: 100%;;
+}
+
+.contact{
+  background-color: #FA8071;
+  margin-top: 3em;
+  color: white;
+  padding: 0;
+  margin-right: 0;
+}
+
+#contactanos{
+  text-align: center;
+  margin-top: 2em;
+  font-size: 1em;
+}
+
+.btnSubmit{
+  background-color: white;
+  color: black;
+  border: none;
+  text-align: center;
+  margin-left: 10%;
+  margin-top: 1em;
+}
+
+#disabledTextInput{
+  width: 80%;
+  margin-left: 10%;
+}
+.textInput{
+  margin-left: 10%;
+}
+
+.inputContacts{
+  height: 20em;
+}
+.checkB{
+  margin-left: 10%;
+}
+
+.icons{
+  width: 100%;
+  text-align: center;
+  height: 2em;
+}
+
+#facebook,#instagram, #twitter{
+  color: black;
+  margin-top: 0.5em;
+}
